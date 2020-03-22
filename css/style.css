@@ -1,0 +1,48 @@
+body{
+    Background-image:
+
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+
+}
+table
+    {
+        display: inline-block;
+        color: white;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+       
+        font-size: 1.1em;
+        font-weight: bold;
+        letter-spacing: 2px;
+       margin: 0 auto;
+        
+      }
+a,.white{
+    color: white;
+    text-decoration:none;
+
+} 
+.caption{
+    position: absolute;
+    color: white;
+}    
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+.view{
+    display: none;
+}
+.bot{
+    border: 0ch;
+    margin: 32PX;
+}
+  
+
+
